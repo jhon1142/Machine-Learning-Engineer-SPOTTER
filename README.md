@@ -12,8 +12,8 @@ Predict the `posted_rate` (USD) for US freight loads given route, equipment, wei
 | `score.py` | Official validator provided by SPOTTER |
 | `validation_predictions.csv` | Final predictions for the 12,000-row validation set |
 | `december_chart_inputs_filled.csv` | December 2025 daily rate predictions (Lexington to Fort Wayne) |
-| `validation_approach.tex` | LaTeX document describing the train/test split and validation strategy |
-| `loom_script.pdf` | Video walkthrough script (2-3 min Loom) |
+| `spotter.pdf` | PDF document describing the train/test split and validation strategy |
+
 
 ---
 

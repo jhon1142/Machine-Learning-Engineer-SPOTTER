@@ -9,7 +9,6 @@ Predict the `posted_rate` (USD) for US freight loads given route, equipment, wei
 | File | Description |
 |---|---|
 | `spotter_en.ipynb` | Main notebook -- EDA, feature engineering, and all models (English) |
-| `spotter.ipynb` | Same notebook in Spanish |
 | `score.py` | Official validator provided by SPOTTER |
 | `validation_predictions.csv` | Final predictions for the 12,000-row validation set |
 | `december_chart_inputs_filled.csv` | December 2025 daily rate predictions (Lexington to Fort Wayne) |
